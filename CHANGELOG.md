@@ -2,6 +2,7 @@
 
 #### master
 
+- CHANGED: Updated registrar endpoints to use documented URLs (GH-112)
 - CHANGED: Relax poison dependency to fix incompatibility with Phoenix (GH-110)
 
 
